@@ -19,7 +19,7 @@ In this Project, we built a Clean & Minimalistic single page of a Game named ###
  - Transition
  - Animation
  - Transform
- ###JavaScript
+### JavaScript
  - Functions
  - Event loops
  - Call backs 
