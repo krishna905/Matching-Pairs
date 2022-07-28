@@ -1,5 +1,5 @@
 ## Matching-Pairs
-In this Project, we built a Clean & Minimalistic single page of a Game named ### Matching pairs with Dynamic effects
+In this Project, we built a Clean & Minimalistic single page of a Game named  **Matching pairs** with Dynamic effects
 
 ## To preview the game
  Please click here to see the ``Demo ``[Click me](https://peaceful-tulumba-e54877.netlify.app/)
